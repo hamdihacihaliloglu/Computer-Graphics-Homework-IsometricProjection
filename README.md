@@ -1,4 +1,4 @@
-#Computer-Graphics-Homework-IsometricProjection
+# Computer-Graphics-Homework-IsometricProjection
 ### Uygulama İçi Resimler
 
 #### Çıktı Ekran Görüntüsü
